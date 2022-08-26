@@ -22,6 +22,11 @@
     color: #141414;
     display: block;
   }
+
+  .header-menu a:hover {
+    background-color: #cccaca;
+    border-radius: 4px;
+  }
   
   @media (max-width: 800px) {
     .header {
