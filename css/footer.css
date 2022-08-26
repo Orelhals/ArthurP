@@ -25,6 +25,10 @@
     color: #ffffff;
     margin-bottom: 30px;
   }
+
+  .footer-contato  img {
+    background-color: white;
+  }
   
   .footer-contato li a {
     color: #ffffff;
